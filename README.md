@@ -32,6 +32,7 @@
 
 ### documents backup
 
-![](pics_in_readme\IMG_20201222_200235.jpg)
+<img src="pics_in_readme\IMG_20201222_200235.jpg" style="zoom:67%;" />
+
 
 <center>图二</center>
