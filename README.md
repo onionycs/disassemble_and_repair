@@ -8,7 +8,7 @@
 
 ## 2020年12月22日一次失败的拆卸案例
 
-![产品信息](pics_in_readme\IMG_20201222_203901.jpg)
+<img src="pics_in_readme\IMG_20201222_203901.jpg">
 
 <center>图1.产品信息</center>
 
